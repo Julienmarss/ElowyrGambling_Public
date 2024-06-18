@@ -1,0 +1,9 @@
+name: ElowyrGambling
+version: 0.0.1
+authors: SkillOfFire
+main: fr.elowyr.gambling.Gambling
+commands:
+  gambling:
+    aliases: [pg]
+  gkit:
+  garena:
